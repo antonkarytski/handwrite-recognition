@@ -1,0 +1,22 @@
+.DrawingPreviewContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 5px;
+  margin: 0 5px;
+  height: 95vh;
+  box-sizing: border-box;
+}
+
+.ChartsContainer {
+  width: 100%;
+  display: flex;
+  flex: 1;
+}
+
+.ModeToggleButton {
+  cursor: pointer;
+  padding: 10px;
+  position: absolute;
+  bottom: 0
+}

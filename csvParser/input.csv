@@ -1,0 +1,107 @@
+answer,katex,characterType
+5π,$5\pi$,AlgebraAdvanced
+5>x,$5>x$,AlgebraAdvanced
+a=[F/m],$a=\frac{F}{m}$,AlgebraBasic
+s=3,$s=3$,AlgebraBasic
+g(x)=x^[3]-6x^[2]+12x-17,$g(x)=x^{3}-6x^{2}+12x-17$,AlgebraBasic
+g(x)=-(x+3)^[2]+6,$g(x)=-(x+3)^{2}+6$,AlgebraBasic
+n+m,$n+m$,AlgebraBasic
+m=abc,$m=abc$,AlgebraBasic
+m=4,$m=4$,AlgebraBasic
+g(x)=[1/4]x^[4]-4,$g(x)=\frac{1}{4}x^{4}-4$,AlgebraBasic
+f(x)=[[11]/5]x^[4]-4,$f(x)=\frac{11}{5}x^{4}-4$,AlgebraBasic
+[x/y],$\frac{x}{y}$,AlgebraBasic
+s^[3]+9s^[2]+27s+27,$s^{3}+9s^{2}+27s+27$,AlgebraBasic
+s^[2],$s^{2}$,AlgebraBasic
+m=-[5/3],$m=-\frac{5}{3}$,AlgebraBasic
+g=8,$g=8$,AlgebraBasic
+g(t)=f(t)+2,$g(t)=f(t)+2$,AlgebraBasic
+x^[5],$x^{5}$,AlgebraBasic
+x=[√[p]]/[q^[3]*r^[2]],$x=\frac{\sqrt{p}}{q^{3}×r^{2}}$,AlgebraBasic
+[a^[2]/5b^[2]],$\frac{a^{2}}{5b^{2}}$,AlgebraBasic
+[[a^[2]]/[5b^[2]]],$\frac{a^{2}}{5b^{2}}$,AlgebraBasic
+5^[-6]x^[8],$5^{-6}x^{8}$,AlgebraBasic
+$5,\$5,Currency
+"12,5kr","12,5 kr",Currency
+$70.28,\$70.28,Currency
+$50,\$50,Currency
+$100.75,\$100.75,Currency
+£10.30,£10.30,Currency
+"3,14×10^[-10]m","$3{,}14×10^{-10}m$",GeneralMath
+1.1×10^[6]km,$1.1×10^{6}km$,GeneralMath
+32°,32°,GeomAngles
+45°,45°,GeomAngles
+30°C,30°C,GeomAngles
+2x°,2x°,GeomAngles
+"(5,2.5)","$(5,2.5)$",GeomCoordinate
+"([3/2],2[1/2])","$(\frac{3}{2},2\frac{1}{2})$",GeomCoordinate
+"(x,2y)","$(x,2y)$",GeomCoordinate
+4[1/4]lb,$4\frac{1}{4}$ lb,NumbersAndUnits
+[5/[12]]lb,$\frac{5}{12}$ lb,NumbersAndUnits
+[7/8]kg,$\frac{7}{8}$ kg,NumbersAndUnits
+[[1]/[5]],$\frac{1}{5}$,NumbersRational
+4[1/4],$4\frac{1}{4}$,NumbersRational
+[5/[12]],$\frac{5}{12}$,NumbersRational
+[3/4],$\frac{3}{4}$,NumbersRational
+83[1/3],$83\frac{1}{3}$,NumbersRational
+[2/3],$\frac{2}{3}$,NumbersRational
+1[1/2],$1\frac{1}{2}$,NumbersRational
+[[37]/8],$\frac{37}{8}$,NumbersRational
+1[1/2],$1\frac{1}{2}$,NumbersRational
+[[28]/3],$\frac{28}{3}$,NumbersRational
+10^[9],$10^{9}$,NumbersRational
+[[100]/[35]],$\frac{100}{35}$,NumbersRational
+[[13]/[40]],$\frac{13}{40}$,NumbersRational
+"54,0%","$54{,}0\%$",NumbersRational
+4.5%,$4.5\%$,NumbersRational
+[[3^[3]]/[5^[3]]],$\frac{3^{3}}{5^{3}}$,NumbersRational
+77,$77$,NumbersWhole
+10√[3],$10\sqrt{3}$,Operators
+80√[3],$80\sqrt{3}$,Operators
+√[102],$\sqrt{102}$,Operators
+80√[3],$80\sqrt{3}$,Operators
+462000√[2],$462000\sqrt{2}$,Operators
+125√[3],$125\sqrt{3}$,Operators
+(6+12)*3-5,$(6+12)×3-5$,Operators
+(7×8)-5,$(7×8)-5$,Operators
+3.23×10^[-4],$3.23×10^{-4}$,Operators
+[[12]/5]×[7/[15]],$\frac{12}{5}×\frac{7}{15}$,Operators
+50%,$50\%$,Percent
+50‰,50‰,Percent
+4:30,$4:30$ ,Time
+07:20AM,$07:20$ AM,Time
+07:20pm,$07:20$ pm,Time
+[1/[15]]min,$\frac{1}{15}$ min,Units
+[3/4]mi,$\frac{3}{4}$ mi,Units
+83[1/3]mi,$83\frac{1}{3}$ mi,Units
+[2/3]yd,$\frac{2}{3}$ yd,Units
+1[1/2]in,$1\frac{1}{2}$ in,Units
+[[37]/8]in,$\frac{37}{8}$ in,Units
+1[1/2]in,$1\frac{1}{2}$ in,Units
+[[28]/3]oz,$\frac{28}{3}$ oz,Units
+10√[3]ft,$10\sqrt{3}$ ft,Units
+1[1/3]gal,$1\frac{1}{3}$ gal,Units
+[[100]/[35]]gal,$\frac{100}{35}$ gal,Units
+[[13]/[40]]km,$\frac{13}{40}$ km,Units
+7 m,$7$ m,Units
+[1/4]l,$\frac{1}{4}$ l,Units
+144in^[2],$144$ in$^{2}$,Units
+2600in^2,$2600$ in$^{2}$,Units
+12√[3]in,$12\sqrt{3}$ in,Units
+7in,$7$ in,Units
+[1/2]s,$\frac{1}{2}$ s,Units
+80√[3]cm,$80\sqrt{3}$ cm,Units
+√[102]cm,$\sqrt{102}$ cm,Units
+80√[3] cm,$80\sqrt{3}$ cm,Units
+462000√[2]m^[3],$462000\sqrt{2}$ m$^{3}$,Units
+125√[3]yd^[2],$125\sqrt{3}$ yd$^{2}$,Units
+4[3/4]cm,$4\frac{3}{4}$ cm,Units
+5[1/2]cm,$5\frac{1}{2}$ cm,Units
+7[[13]/[20]]cm,$7\frac{13}{20}$ cm,Units
+[1/2]ft^[3],$\frac{1}{2}$ ft$^{3}$,Units
+[[28]/[15]]ft^[3],$\frac{28}{15}$ ft$^{3}$,Units
+[[105]/[64]]yd^[3],$\frac{105}{64}$ yd$^{3}$,Units
+114 min,$114$ min,Units
+45 min,$45$ min,Units
+[[100]/3]qt,$\frac{100}{3}$ qt,Units
+21^[3]cm^[3],$21^{3}$ cm$^{3}$,Units
